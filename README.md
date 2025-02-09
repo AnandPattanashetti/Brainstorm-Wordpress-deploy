@@ -54,48 +54,49 @@ Add the following secrets:
 ### 2️⃣ **✅ Step 1: Launch an AWS EC2 Instance (Ubuntu 22.04)**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(900).png)
 
-### 2️⃣ **✅ Step 1: Create an RDS Database**
+### 3️⃣**✅ Step 1: Create an RDS Database**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(857).png)
 
-### 2️⃣ **✅ Step 1: Mariadb/mysql successfully installed **
+### 4️⃣ **✅ Step 1: Mariadb/mysql successfully installed **
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(837).png)
 
-### 2️⃣ **✅ Step 1: Our wp_database is created**
+### 5️⃣ **✅ Step 1: Our wp_database is created**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(866).png)
 
-### 2️⃣ **✅ Step 1: Wordpress is installed**
+### 6️⃣ **✅ Step 1: Wordpress is installed**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(867).png)
 
-### 2️⃣ **✅ Step 1: changes made into wp-config**
+### 7️⃣ **✅ Step 1: changes made into wp-config**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(869).png)
 
-### 2️⃣ **✅ Finally we can access our wordpress webiste by the OUR Ec2 instance Ip adress**
+### 8️⃣ **✅ Finally we can access our wordpress webiste by the OUR Ec2 instance Ip adress**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(874).png)
 
-### 2️⃣ **✅ You will ablbe to see how will i login**
+### 9️⃣ **✅ You will ablbe to see how will i login**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(875).png)
 
-### 2️⃣ **✅ login**
+### 🔟 **✅ login**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(876).png)
 
-### 2️⃣ **✅ wordpress Dashboard**
+### 1️⃣1️⃣ **✅ wordpress Dashboard**
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(877).png)
 
-### 2️⃣ **✅ Get The Domain From Recommended website **
+### 1️⃣2️⃣ **✅ Get The Domain From Recommended website **
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(896).png)
 
-### 2️⃣ **✅ Map that domain to our IP adress here the result **
+### 1️⃣3️⃣ **✅ Map that domain to our IP adress here the result **
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(887).png)
 
-### 2️⃣ **✅ Now the Web site is not secure we are trying to access by http we have make encrypt by enable TLS cert **
+### 1️⃣4️⃣ **✅ Now the Web site is not secure we are trying to access by http we have make encrypt by enable TLS cert **
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(887).png)
 
-### 2️⃣ **✅ The output of Enable CERT **
+### 1️⃣5️⃣ **✅ The output of Enable CERT **
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(888).png)
 
-### 2️⃣ **✅ After Enablling TLS The out we get now we can Access our Wordpress by https **
+### 1️⃣6️⃣**✅ After Enablling TLS The out we get now we can Access our Wordpress by https **
 ![GitHub Actions Running](https://github.com/AnandPattanashetti/Brainstorm-Wordpress-deploy/blob/main/Screenshot%20(895).png)
 
+             
 ---
 
 ## ⚠️ Important Note: DO NOT Hardcode Secrets!
