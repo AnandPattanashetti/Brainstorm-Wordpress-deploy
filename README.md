@@ -128,7 +128,6 @@ Looking forward to your feedback
 I have thoroughly **tested** the deployed WordPress site on **mobile** and desktop to ensure it works seamlessly. I also **recorded** the entire process for reference.
 You can **review** or **download** the recorded proof to verify the deployment. **I appreciate the opportunity to work on this task and look forward to your feedback!**
 
-[Watch the video](https://github.com/AnandPattanashetti/UPswing-Task/blob/main/1.mp4)
 
 ```yaml
 name: Deploy WordPress to VPS
